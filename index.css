@@ -1,20 +1,9 @@
 *{
     margin: 0;
     padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background: #fff9ed;
 }
 
-ul{
-    list-style: none;
-}
-
-.wrap{
-    border: 1px solid blue;
-    height: 100vh;
-    background: #000;
-}
-
-.block{
-    width: 200px;
-    background: red;
-    height: 100px;
-}
